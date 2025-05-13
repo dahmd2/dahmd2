@@ -33,7 +33,7 @@ I’m currently studying Business Analytics and have a passion for turning data 
 
 ### 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/delaniedahm)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/delanie-dahm-76127428b/)  
 [![Portfolio](https://img.shields.io/badge/-My%20Portfolio-black?style=for-the-badge)](https://delaniedahm.com/)
 
 ---
